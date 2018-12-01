@@ -1,26 +1,23 @@
 ﻿# Header
 menu:
-  Home: /
-  Archives: /archives
-  '#Random': /categories/Category-1/random/
-  Contact: /contact/
+  主页: /
+  洛谷: https://luogu.org
 
 footer_icons:
-  'Hexo.io':
-    url: 'https://hexo.io/'
-    class: 'fas fa-home'
-  '@hexojs':
-    url: 'https://twitter.com/hexojs'
-    class: 'fab fa-twitter'
-  'Report issue':
-    url: 'https://github.com/RandomAdversary/Gradient/issues'
-    class: 'fas fa-bug'
-
+  'Theme on GitHub':
+    url: 'https://github.com/luogu-cat/Gradient'
+    class: 'fab fa-github'
 
 sidebar:
-  twitter:
-    username: 'hexojs'
-    height: 800
-  tldr: 'Gradient is clean and modern hexo theme.'
+  cats:
+    -
+      name: "七仔"
+      list:
+        - 品种：英短虎斑
+        - 性别：♀
+        - 出生日期：2018-05-08
+        - 体重：3.1kg (动态中
+      more: >
+        ps 现在学会跳上水槽找吃的了 T-T
 
 featured_image: ./img/default.jpg
