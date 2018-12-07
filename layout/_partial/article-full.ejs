@@ -22,7 +22,9 @@
                         <li><%=s%></li>
                     <% }); %>
                 </ul>
-				<p><%=cat.more%></p>
+				<% cat.more.forEach(function (s){ %>
+					<p><%=s%></p>
+				<% }); %>
                 <hr/>
             <% }); %>
         </div>
