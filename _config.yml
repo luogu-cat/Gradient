@@ -1,7 +1,7 @@
 ﻿# Header
 menu:
   主页: /
-  洛谷: https://luogu.org
+  洛谷: https://www.luogu.org
 
 footer_icons:
   'Theme on GitHub':
@@ -16,7 +16,8 @@ sidebar:
         - 品种：英短虎斑
         - 性别：♀
         - 出生日期：2018-05-08
-        - 体重：3.1kg (动态中
+        - 体重：3.1 kg
+        - 状态：犯困中
       more:
         - ps 现在学会跳上水槽找吃的了 T-T
         - 18.12.07 今天企图偷吃解冻的肉被抓现行
